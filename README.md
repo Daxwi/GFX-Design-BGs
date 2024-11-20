@@ -1,3 +1,5 @@
+# GFX Design BGs
+
 # __**First Words**__
 This is where the BGs of the customers who have ordered are mentioned, all the details are here.
 
@@ -18,6 +20,8 @@ Whoever requests first will have priority, lining up in turn.
 
 ### Ordered
 (2) BGs have been ordered.
+
+<img src="../../main/Ordered/Albums_BG-OrderFrom-@ookaming_Final.png?raw=true" width="100%"/>
 
 ![1000034033](https://github.com/user-attachments/assets/fdd0cafb-6693-47d0-be45-1fcf923031a9)
 ![1000034135](https://github.com/user-attachments/assets/5597af98-fc91-437a-a8ea-6e1085a89840)
