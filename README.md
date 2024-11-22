@@ -16,6 +16,7 @@ Depending on the customer's request. When you want to order please follow the fo
 > - Series: *series*
 > - How many cards for 1 album: *number*
 > - (not required) Image of the character you want me to make: *official link image*
+> - (not required) Style or Sample: *write in*
 
 #### Notes: 
 1. Whoever requests first will have priority, lining up in turn.
