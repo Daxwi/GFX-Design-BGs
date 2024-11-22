@@ -15,6 +15,7 @@ Depending on the customer's request. When you want to order please follow the fo
 > - Name Character: *name*
 > - Series: *series*
 > - How many cards for 1 album: *number*
+> - Tier: *number*
 > - (not required) Image of the character you want me to make: *official link image*
 > - (not required) Style or Sample: *write in*
 
@@ -22,8 +23,6 @@ Depending on the customer's request. When you want to order please follow the fo
 1. Whoever requests first will have priority, lining up in turn.
 2. I often lose ideas, wait patiently until I think of something new (have an idea).
 
-## Ordered // Preview
-(2) BGs have been ordered.
+## Sample // Preview
 
-![Albums BG Order From @ookaming](https://github.com/Daxwi/GFX-Design-BGs/blob/main/Ordered/Albums_BG-OrderFrom-%40ookaming_Final.png)
-![Albums BG Order From @soma1169](https://github.com/Daxwi/GFX-Design-BGs/blob/main/Ordered/Albums_BG-OrderFrom-%40soma1169_Final.png)
+*updating...*
