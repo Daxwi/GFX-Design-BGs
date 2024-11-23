@@ -1,9 +1,5 @@
 # GFX Design BGs
-
-# __**First Words**__
-This is where the BGs of the customers who have ordered are mentioned, all the details are here.
-
-# __**Second Words**__
+This is where my album design service information is located, it contains "Prices, How to Order, Notes & Sample Previews".
 Each album is made in a clean, easy to look at, and modern feel.
 
 #### The price of each album:
@@ -18,11 +14,11 @@ Depending on the customer's request. When you want to order please follow the fo
 > - Tier: *number*
 > - (not required) Image of the character you want me to make: *official link image*
 > - (not required) Style or Sample: *write in*
+> - (not required) Layout: *upload the image you drew*
 
 #### Notes: 
 1. Whoever requests first will have priority, lining up in turn.
-2. I often lose ideas, wait patiently until I think of something new (have an idea).
+2. I often lose ideas, wait patiently until I think of something new (out of ideas).
 
-## Sample // Preview
-
-*updating...*
+## Sample Previews
+![1000034218](https://github.com/user-attachments/assets/a9f9a539-9200-451d-a43d-028db0d3f16b)
