@@ -21,4 +21,4 @@ Depending on the customer's request. When you want to order please follow the fo
 2. I often lose ideas, wait patiently until I think of something new (out of ideas).
 
 ## Sample Previews
-![1000034218](https://github.com/user-attachments/assets/a9f9a539-9200-451d-a43d-028db0d3f16b)
+![Design Sample](https://github.com/user-attachments/assets/a9f9a539-9200-451d-a43d-028db0d3f16b)
