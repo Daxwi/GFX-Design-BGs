@@ -18,7 +18,7 @@ Depending on the customer's request. When you want to order please follow the fo
 
 #### Notes: 
 1. Whoever requests first will have priority, lining up in turn.
-2. I often lose ideas, wait patiently until I think of something new (out of ideas).
+2. I often lose ideas, wait patiently until I think of something new.
 
 ## Sample Previews
 ![Design Sample](https://github.com/user-attachments/assets/a9f9a539-9200-451d-a43d-028db0d3f16b)
