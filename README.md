@@ -1,4 +1,4 @@
-# GFX Design BGs
+# GFX // Typography Design BGs
 This is where my album design service information is located, it contains "Prices, How to Order, Notes & Sample Previews".
 Each album is made in a clean, easy to look at, and modern feel.
 
@@ -20,7 +20,8 @@ Depending on the customer's request. When you want to order please follow the fo
 1. Whoever requests first will have priority, lining up in turn.
 2. I often lose ideas, wait patiently until I think of something new.
 3. All the BGs i do are "Private".
-4. Keep an eye on my Discord Status, if you see the text then im in the process of designing some BGs. If not then i dont have any orders yet.
+4. I always update the finished Albums on X, [click here](https://x.com/daxwi_) if you want to see.
+5. Keep an eye on my Discord Status, if you see the text then im in the process of designing some BGs. If not then i dont have any orders yet.
 
 ## Sample Previews
 ![Design Sample](https://github.com/user-attachments/assets/a9f9a539-9200-451d-a43d-028db0d3f16b)
